@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Secular+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
+
+#herotextA {
+  font-family: "Secular One", sans-serif;
+  font-size: 150px;
+  color: black;
+}
+
+#herotextB {
+  font-family: "Secular One", sans-serif;
+  color: white;
+}
+
+#verticaltext {
+  font-family: "Staatliches", cursive;
+  font-size: 30px;
+}
+
+#bottomtext {
+  font-family: "Staatliches", cursive;
+  text-shadow: 2px 2px black;
+  font-size: 20px;
+}
